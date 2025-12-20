@@ -1,0 +1,34 @@
+# Data directories
+data/
+synthetic_data/
+data_preprocess/
+
+# Checkpoints and model weights
+checkpoints/
+*.pth
+*.pt
+
+# Logs and outputs
+logs/
+visuals/
+eval_output*/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.swp
+*.swo
+*~
+
+# Large files
+*.nii
+*.nii.gz
+*.h5
+*.hdf5

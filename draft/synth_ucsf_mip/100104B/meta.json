@@ -1,0 +1,18 @@
+{
+  "subject": "100104B",
+  "source_volume": "/DATA/hazellim/final-proj/preprocessed_ucsf/step4_normalized_nifti/100104B/100104B_T1post.nii.gz",
+  "H": 160,
+  "W": 160,
+  "focal": 253.72758418905707,
+  "c": [
+    79.5,
+    79.5
+  ],
+  "near": 0.6,
+  "far": 3.0,
+  "n_views": 40,
+  "render": "MIP",
+  "clamp_p1": 1.0,
+  "clamp_p99": 99.0,
+  "time": "2025-12-15T08:42:01"
+}

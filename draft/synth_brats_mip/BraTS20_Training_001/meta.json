@@ -1,0 +1,21 @@
+{
+  "subject": "BraTS20_Training_001",
+  "source_volume": "/DATA/hazellim/final-proj/preprocessed_brats/step4_normalized_nifti/BraTS20_Training_001/BraTS20_Training_001_flair.nii",
+  "H": 160,
+  "W": 160,
+  "focal": 153.6785701576933,
+  "c": [
+    79.5,
+    79.5
+  ],
+  "near": 0.0,
+  "far": 4.0,
+  "n_views": 40,
+  "render": "top10pct_mean",
+  "clamp_p1": 1.0,
+  "clamp_p99": 99.0,
+  "vis_p_low": 5.0,
+  "vis_p_high": 99.7,
+  "vis_gamma": 1.6,
+  "time": "2025-12-15T09:52:40"
+}
